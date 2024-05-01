@@ -1,0 +1,7 @@
+# <lc>trait/inability-for-skill-category</lc> [<lc>Misc_SkillCategory</lc>]
+
+Der Charakter hat einfach kein Händchen für Fähigkeiten einer bestimmten Fähigkeitsgruppe und tut sich bedeutend schwerer damit, diese zu erlernen. Alle Fähigkeiten innerhalb dieser Gruppe können nach Spielstart durch den Charakter zwar erworben und gesteigert werden, verteuern sich jedoch um eine Kategorie (z.B. müssen Körperliche Fähigkeiten nun zum Preis der Kategorie 6 statt 5 gesteigert werden). Das gilt auch für Kampffähigkeiten, wobei die einzelnen Fähigkeiten weiterhin unterschiedliche Steigerungskategorien haben (nur eben jeweils um eine Kategorie erhöht). Der Bonus für diesen Merkmal variiert je nach der gewählten Fähigkeitsgruppe: Unfähigkeit für Kampf- und Fahrzeugfähigkeiten gibt einen Bonus von 18 GP, Unfähigkeit für Körperliche Fähigkeiten einen Bonus von 15 GP, Unfähigkeit für Handwerkliche und Wissensfähigkeiten einen Bonus von 9 GP und eine Unfähigkeit für Soziale Fähigkeiten einen Bonus von 12 GP. Dieses Merkmal kann mehrmals gewählt werden und ist ausdrücklich mit dem Merkmal Begabung für [Fähigkeit] kombinierbar, selbst dann, wenn dieselbe Fähigkeitsgruppe betroffen ist – Boni und Mali heben sich für die jeweilige Fähigkeit dann einfach gegenseitig auf.
+
+`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Bonus</lc>: **<lc>Misc_NoneOrVariableBonus</lc>**`
+`SP_TODO: [mis]`
+`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_NotCombinableWith</lc>: <lc>Misc_Varies</lc>`

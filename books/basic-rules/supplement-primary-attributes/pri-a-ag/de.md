@@ -1,0 +1,7 @@
+# pri-a/ag
+
+**Beweglichkeit** ist ein <hl>körperliches Primärattribut</hl> und beziffert, wie flink und agil ein Charakter ist.
+Beispiele für direkte Proben: Kann ich der geworfenen Bierflasche ausweichen? Kann ich die Balance auf dem Seil halten?
+
+`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_UsedInSecA:</lc> <link="BasicRules;SupplementSecondaryAttributes;sec-a/sp"><lc>sec-a/sp</lc></link>; <link="BasicRules;SupplementSecondaryAttributes;sec-a/re"><lc>sec-a/re</lc></link>; <link="BasicRules;SupplementSecondaryAttributes;sec-a/de"><lc>sec-a/de</lc></link>; <link="BasicRules;SupplementSecondaryAttributes;sec-a/ve"><lc>sec-a/ve</lc></link>`
+`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_UsedInSkills:</lc> <link="BasicRules;SupplementSkills;skill/physical/body-control"><lc>skill/physical/body-control</lc></link>; <link="BasicRules;SupplementSkills;skill/physical/climbing"><lc>skill/physical/climbing</lc></link>; <link="BasicRules;SupplementSkills;skill/physical/dancing"><lc>skill/physical/dancing</lc></link>; <link="BasicRules;SupplementSkills;skill/physical/diving"><lc>skill/physical/diving</lc></link>; <link="BasicRules;SupplementSkills;skill/physical/running"><lc>skill/physical/running</lc></link>; <link="BasicRules;SupplementSkills;skill/physical/sneaking-hiding"><lc>skill/physical/sneaking-hiding</lc></link>; <link="BasicRules;SupplementSkills;skill/physical/swimming"><lc>skill/physical/swimming</lc></link>`

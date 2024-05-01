@@ -1,0 +1,3 @@
+# Wozu dieses Buch dient
+
+Das **Arsenal des Sonnensystems** soll einen Überblick über Technologien, Raumschiffe, Waffen und Ausrüstung innerhalb des Sonnensystems geben. Hier werden nicht nur die wichtigsten und häufigsten Technologien im Bereich der Raumfahrt und militärischer Konflikte genannt und erklärt, sondern auch alle regelrelevanten Parameter und Preise aufgeführt. Egal ob Handfeuerwaffe, Pistole oder schweres Bordgeschütz – hier findest Du alle notwendigen Informationen, die Du benötigst, wenn Du Munition oder eine Handfeuerwaffe kaufen willst oder als Spielleiterin oder Spielleiter ein Raumschiffgefecht vorbereiten möchtest.

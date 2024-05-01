@@ -1,0 +1,3 @@
+# Schuss- und Energiewaffen im Sonnensystem
+
+Natürlich findet man auch im Sonnensystem der Zukunft ein großes Arsenal ballistischer Handfeuerwaffen und seltener sogar hochmoderne Energiewaffen, die zumeist aber nur von Militärs oder gut ausgestatteten Söldnern verwendet werden. Eine abschließende Aufzählung aller Waffen ist gewiss ein Ding der Unmöglichkeit. Die später folgende Liste sollte insofern eher als eine Aufzählung der häufigsten Vertreter verschiedener Waffengattungen verstanden werden. Zuvor erfährst Du hier aber, welche Waffengattungen es gibt, welche grundsätzlichen Unterschiede zwischen ihnen bestehen und wie sich das in den Spielregeln wiederspiegelt.

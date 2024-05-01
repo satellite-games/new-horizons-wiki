@@ -1,0 +1,3 @@
+# Magazintyp und Magazinkapazität (MT/MK)
+
+Eine Waffe verfügt weiterhin über einen Magazintyp (Magazin oder Trommel) sowie über eine Magazinkapazität (also wie viele Patronen eine einzelne Ladung enthält). Tendenziell verfügen Waffen mit niedrigem Kaliber eher über Magazine mit vielen Patronen, während hochkalibrige Waffen eher über Trommeln mit wenigen Schuss verfügen. Trommelbasierte Waffen benötigen mehr Zeit zum Nachladen (zwei Aktionen) als Magazinbasierte Waffen (eine Aktion).

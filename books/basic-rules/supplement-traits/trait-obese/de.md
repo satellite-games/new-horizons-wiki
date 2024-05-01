@@ -1,0 +1,7 @@
+# trait/obese
+
+Der Charakter ist deutlich schwerer, als gesund für ihn wäre. Erhöhe das Gewicht um mindestens 50 % (Richtwert Normalgewicht: Größe (cm) – 100 in kg). Bei der Charaktererstellung und auch nach Spielstart sind die Höchstwerte von BE und KO um zwei Punkte gesenkt. Außerdem hat der Charakter eine verringerte GS (-4) und einen verringerten Reaktionsbasiswert (-2). Ferner sind alle KK-Proben, die mit dem eigenen Körpergewicht zu tun haben, sollten um mindestens zwei Punkte, entsprechende Fähigkeitsproben um mindestens fünf Punkte erschwert werden. Ein fettleibiger Charakter kann je nach seinem Umfeld auch Einbußen bei sozialen Fähigkeiten erhalten. Außerdem kann er Schwierigkeiten haben, Kleidung und Rüstung in passender Größe zu finden (alle Verfügbarkeitswerte mindestens halbiert). Findet er dann doch einmal Ausrüstung, die ihm passt, so hat diese ein höheres Gewicht.
+
+`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Bonus</lc>: **15 GP**`
+`SP_TODO: [mis]`
+`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_NotCombinableWith</lc>: <link="BasicRules;SupplementTraits;trait/nimble"><lc>trait/nimble</lc></link>, <link="BasicRules;SupplementTraits;trait/competetive-sportsman"><lc>trait/competetive-sportsman</lc></link>, <link="BasicRules;SupplementTraits;Trait_MiserableAttriute"><lc>Trait_MiserableAttriute</lc></link>,`

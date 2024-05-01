@@ -2,7 +2,7 @@ Alles begann im Jahr **2027**. Was als Pilotprojekt und Seifenoper geplant war, 
 
 Vierzig Astronauten waren es, die auf dem roten Nachbarplaneten die erste menschliche Kolonie im Sonnensystem aufbauten und dort über Jahre auf engstem Raum und unter den kompliziertesten Bedingungen miteinander lebten. Dabei waren sie zeitweise völlig isoliert von ihren Mitmenschen auf der Erde und selbst bei guten Kommunikationsbedingungen vergingen von einer Nachricht an die Erde bis zur Antwort bis zu vierzig Minuten. Dennoch schlugen sich die Siedler irgendwie durch und schon zwei Jahre nach ihrer Ankunft, im Jahr **2029**, kam (wenig überraschend) das erste **„Mars-Baby“** zur Welt.
 
-<img src='/books/01-basic-rules/introduction/about-the-game/_images_/mars-one-colony.jpg' alt='Kolonie "Mars One"'/>
+<img src='/books/basic-rules/introduction/about-the-game/_images_/mars-one-colony.jpg' alt='Kolonie "Mars One"'/>
 
 Trotz der hohen Erwartungen lief die Entwicklung der Marskolonie schleppend. Das Leben auf dem roten Planeten war lebensgefährlich, die Technik unausgereift und Vorräte knapp. Nachschubtransporte kamen nur selten, waren pannengeplagt und teuer. Auch das öffentliche Interesse an Mars One nahm schnell ab, während auf der Erde internationale Konflikte und die Folgen des Klimawandels zunehmend die Berichterstattung prägten.
 

@@ -1,0 +1,5 @@
+# sec-a/re
+
+Der **Reaktionsbasiswert** gibt an, wie schnell ein Charakter (re-)agieren kann. Er wird immer dann benötigt, wenn es darum geht, die Reihenfolge für Handlungen verschiedener Akteure festzulegen (z.B. zu Beginn eines Kampfes). Damit diese Folge nicht bei jeder Aktion neu bestimmt werden muss, gilt sie in der Regel für eine Dauer von drei Kampfrunden (9 Sekunden). Die Position in der Reihenfolge wird auf den Reaktionsbasiswert + 1W6 gewürfelt.
+
+`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Calculation:</lc> (<link="BasicRules;SupplementPrimaryAttributes;pri-a/cr"><lc>pri-a/cr</lc></link>+<link="BasicRules;SupplementPrimaryAttributes;pri-a/cr"><lc>pri-a/cr</lc></link>+<link="BasicRules;SupplementPrimaryAttributes;pri-a/in"><lc>pri-a/in</lc></link>+<link="BasicRules;SupplementPrimaryAttributes;pri-a/ag"><lc>pri-a/ag</lc></link>)/5`

@@ -1,0 +1,3 @@
+# Reaktions-, Attacke- und Verteidigungsmodifikator
+
+Waffen unterscheiden sich deutlich hinsichtlich ihrer Präzision und Handhabbarkeit. Daher verfügt jede Waffe über einen Reaktions-Modifikator (RE*), einen Attacke-Modifikator (AT*) und einen Verteidigungs-Modifikator (VE*). Diese Modifikatoren werden bei Verwendung der Waffe auf die entsprechenden Proben im Kampf angerechnet. Die Modifikatoren können durch Modifikationen der Waffe (z.B. Absägen oder Verlängern eines Laufs) verändert werden.

@@ -1,0 +1,5 @@
+# sec-a/sp
+
+Die **Ausdauerpunkte** geben die gegenwärtige konditionelle Verfassung eines Charakters an. Ausdauerpunkte werden immer dann verbraucht, wenn ein Charakter eine anstrengende Handlung durchführt. Dazu zählen das Laufen einer langen Strecke, ein Sprint, das Erklettern eines Hindernisses, spezielle Kampfmanöver (Sonderfertigkeiten) oder auch das Benutzen eines Implantats. Alle drei Sekunden bzw. jede Kampfrunde wird ein verlorener AP wiederhergestellt. Allerdings können die AP niemals höher sein als die Anzahl der Lebenspunkte. Das heißt, dass auch durch das Sinken der Lebenspunkte AP verloren werden können.
+
+`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Calculation:</lc> (<link="BasicRules;SupplementPrimaryAttributes;pri-a/cn"><lc>pri-a/cn</lc></link>+<link="BasicRules;SupplementPrimaryAttributes;pri-a/cn"><lc>pri-a/cn</lc></link>+<link="BasicRules;SupplementPrimaryAttributes;pri-a/ag"><lc>pri-a/ag</lc></link>)/2`
