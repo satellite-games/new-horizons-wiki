@@ -1,6 +1,6 @@
 # pri-a/in
 
-**Intuition** ist ein <hl>geistiges Primärattribut</hl> und beziffert, wie gut das Bauchgefühl eines Charakters ausgeprägt ist.
+**Intuition** ist ein \*\*geistiges Primärattribut\*\* und beziffert, wie gut das Bauchgefühl eines Charakters ausgeprägt ist.
 Beispiele für direkte Proben: Ahne ich den Hinterhalt voraus? Spüre ich, dass ich meinem Gegenüber vertrauen kann?
 
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_UsedInSecA:</lc> <link="BasicRules;SupplementSecondaryAttributes;sec-a/re"><lc>sec-a/re</lc></link>; <link="BasicRules;SupplementSecondaryAttributes;sec-a/de"><lc>sec-a/de</lc></link>; <link="BasicRules;SupplementSecondaryAttributes;sec-a/pi"><lc>sec-a/pi</lc></link>`

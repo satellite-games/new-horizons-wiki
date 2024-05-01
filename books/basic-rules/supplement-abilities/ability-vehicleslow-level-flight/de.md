@@ -5,5 +5,5 @@ Manche Kampfpiloten verfügen über den Mut und das Können, durch waghalsige Ma
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Ability_Vehicles</lc>`
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_CastTime</lc>:  <lc>Misc_None</lc>`
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_CastCosts</lc>: **2 <lc>Misc_PP</lc>**`
-`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Costs</lc>: <hl>300 <lc>Misc_EP</lc> (3 <lc>Misc_GP</lc>)</hl>`
+`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Costs</lc>: **300 <lc>Misc_EP</lc> (3 <lc>Misc_GP</lc>)**`
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Requirements</lc>: <link="BasicRules;SupplementPrimaryAttributes;pri-a/cr"><lc>pri-a/cr</lc></link> (14), <link="BasicRules;SupplementAbilities;ability/vehicles/outmaneuvering-1"><lc>ability/vehicles/outmaneuvering-1</lc></link>`

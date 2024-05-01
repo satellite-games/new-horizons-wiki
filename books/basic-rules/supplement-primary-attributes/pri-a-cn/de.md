@@ -1,6 +1,6 @@
 # pri-a/cn
 
-**Konstitution** ist ein <hl>körperliches Primärattribut</hl> und beziffert, wie gut die allgemeine körperliche Verfassung eines Charakters ist.
+**Konstitution** ist ein \*\*körperliches Primärattribut\*\* und beziffert, wie gut die allgemeine körperliche Verfassung eines Charakters ist.
 Beispiele für direkte Proben: Kann ich der Infektion mit einer Krankheit widerstehen? Halte ich den Sprint länger durch als meine Verfolger?
 
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_UsedInSecA:</lc> <link="BasicRules;SupplementSecondaryAttributes;sec-a/lp"><lc>sec-a/lp</lc></link>; <link="BasicRules;SupplementSecondaryAttributes;sec-a/sp"><lc>sec-a/sp</lc></link>; <link="BasicRules;SupplementSecondaryAttributes;sec-a/pi"><lc>sec-a/pi</lc></link>; <link="BasicRules;SupplementSecondaryAttributes;sec-a/ve"><lc>sec-a/ve</lc></link>; <link="BasicRules;SupplementSecondaryAttributes;sec-a/wt"><lc>sec-a/wt</lc></link>`

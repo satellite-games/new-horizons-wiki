@@ -5,5 +5,5 @@ Ermöglicht das gezielte Beschießen einer Komponente mit Hilfe eines Bordgesch�
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Ability_Ranged</lc>`
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_CastTime</lc>: 3 <lc>Misc_Actions</lc>`
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_CastCosts</lc>: **3 <lc>Misc_PP</lc>**`
-`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Costs</lc>: <hl>400 <lc>Misc_EP</lc> (4 <lc>Misc_GP</lc>)</hl>`
+`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Costs</lc>: **400 <lc>Misc_EP</lc> (4 <lc>Misc_GP</lc>)**`
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Requirements</lc>: <link="BasicRules;SupplementSkills;skill/combat/onboard-weapons"><lc>skill/combat/onboard-weapons</lc></link> (10), <link="BasicRules;SupplementAbilities;ability/vehicles/onboard-marksman-2"><lc>ability/vehicles/onboard-marksman-2</lc></link>`

@@ -1,6 +1,6 @@
 # pri-a/ag
 
-**Beweglichkeit** ist ein <hl>körperliches Primärattribut</hl> und beziffert, wie flink und agil ein Charakter ist.
+**Beweglichkeit** ist ein \*\*körperliches Primärattribut\*\* und beziffert, wie flink und agil ein Charakter ist.
 Beispiele für direkte Proben: Kann ich der geworfenen Bierflasche ausweichen? Kann ich die Balance auf dem Seil halten?
 
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_UsedInSecA:</lc> <link="BasicRules;SupplementSecondaryAttributes;sec-a/sp"><lc>sec-a/sp</lc></link>; <link="BasicRules;SupplementSecondaryAttributes;sec-a/re"><lc>sec-a/re</lc></link>; <link="BasicRules;SupplementSecondaryAttributes;sec-a/de"><lc>sec-a/de</lc></link>; <link="BasicRules;SupplementSecondaryAttributes;sec-a/ve"><lc>sec-a/ve</lc></link>`

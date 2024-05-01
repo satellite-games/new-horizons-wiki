@@ -10,4 +10,4 @@ Die „Viper“ ist eines der häufigsten Sturmgewehre im Sonnensystem. Die hohe
 
 **<lc>Misc_RapidFire</lc>:** <lc>Misc_RapidFireText1</lc> 2. <lc>Misc_RapidFireText2</lc> 3 <lc>Misc:RapidFireText3</lc>.
 
-<hl><lc>Misc_FourthRange</lc>:</hl> <lc>Misc_FourthRangeText</lc>.
+\*\*<lc>Misc_FourthRange</lc>:\*\* <lc>Misc_FourthRangeText</lc>.

@@ -5,5 +5,5 @@ Entkoppelt man die Triebwerke, ist es möglich, das Schiff um 180° zu drehen, w
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Ability_Vehicles</lc>`
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_CastTime</lc>: 2 <lc>Misc_Actions</lc>`
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_CastCosts</lc>: **3 <lc>Misc_PP</lc>**`
-`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Costs</lc>: <hl>300 <lc>Misc_EP</lc> (3 <lc>Misc_GP</lc>)</hl>`
+`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Costs</lc>: **300 <lc>Misc_EP</lc> (3 <lc>Misc_GP</lc>)**`
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Requirements</lc>: <link="BasicRules;SupplementPrimaryAttributes;pri-a/cr"><lc>pri-a/cr</lc></link> (15), <link="BasicRules;SupplementAbilities;ability/vehicles/barrel-roll"><lc>ability/vehicles/barrel-roll</lc></link>`

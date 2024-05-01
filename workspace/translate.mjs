@@ -64,7 +64,7 @@ for (const book of data) {
       }
 
       // Replace stuff
-      content = content.replace("<hl>", "**").replace("</hl>", "**");
+      content = content.replace("**", "**").replace("**", "**");
 
       fs.mkdirSync(`${dir}/${bookId}/${chapterId}/${articleId}`);
       fs.writeFileSync(

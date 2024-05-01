@@ -1,6 +1,6 @@
 # pri-a/cr
 
-**Mut** ist ein <hl>geistiges Primärattribut</hl> und beziffert, wie tapfer und couragiert ein Charakter auftritt.
+**Mut** ist ein \*\*geistiges Primärattribut\*\* und beziffert, wie tapfer und couragiert ein Charakter auftritt.
 Beispiele für direkte Proben: Traue ich mich, die dunkle Gasse zu betreten? Traue ich mich, schlichtend in die Kneipenschlägerei einzugreifen?
 
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_UsedInSecA:</lc> <link="BasicRules;SupplementSecondaryAttributes;sec-a/re"><lc>sec-a/re</lc></link>; <link="BasicRules;SupplementSecondaryAttributes;sec-a/pi"><lc>sec-a/pi</lc></link>`
