@@ -1,0 +1,28 @@
+book:
+  id: basic-rules
+  title:
+    de: Basisregelwerk
+  chapters:
+    - id: introduction
+      title:
+        de: Einführung
+      articles:
+        - id: welcome
+          title:
+            de: Willkommen
+        - id: about-the-game
+          title:
+            de: Über das Spiel
+        - id: short-history-of-the-solar-system
+          title:
+            de: Kurze Geschichte des Sonnensystems
+        - id: index-of-abbreviations
+          title:
+            de: Abkürzungsverzeichnis
+    - id: character-creation
+      title:
+        de: Charaktererschaffung
+      articles:
+        - id: essentials
+          title:
+            de: Grundlagen
