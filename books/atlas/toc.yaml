@@ -1,0 +1,9 @@
+id: atlas
+chapters:
+  - id: introduction
+    title:
+      de: Einführung
+    articles:
+      - id: solar-system-of-the-23th-century
+        title:
+          de: Sonnensystem des 23. Jahrhunderts
