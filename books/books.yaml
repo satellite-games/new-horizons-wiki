@@ -2,18 +2,22 @@
 - id: basic-rules
   title:
     de: Basisregelwerk
+  icon: 'mdi:rocket-launch'
   default:
     chapter: introduction
     article: welcome
 - id: atlas
   title:
     de: Atlas des Sonnensystems
+  icon: 'mdi:earth'
   default:
     chapter: introduction
     article: solar-system-of-the-23th-century
 - id: trade-and-craft
   title:
     de: Handel und Handwerk
+  icon: 'mdi:tools'
 - id: arsenal
   title:
     de: Arsenal des Sonnensystems
+  icon: 'mdi:gun'
