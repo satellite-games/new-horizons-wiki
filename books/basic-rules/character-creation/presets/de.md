@@ -20,7 +20,7 @@ Die Voreinstellungen umfassen folgende Parameter:
 
 - **Höchstanzahl Sonderfertigkeiten** gibt vor, wie viele [Sonderfertigkeiten](/books/basic-rules/character-creation/abilities/de.md) Du für Deinen Charakter höchstens erwerben darfst.
 
-- **Bonus-Credits** geben an, wie viele Credits Deine Charakter zusätzlich zur üblichen Menge erhält. Die übliche Menge der zur Verfügung stehenden Credits wird durch den Sozialstatus Deines Charakters sowie durch bestimmte Merkmale beeinflusst. Aus diesem Grund gewährt die **"Standard"**-Voreinstellung hier keinen Bonus.
+- **Bonus-Credits** geben an, wie viele [Credits](/books/basic-rules/character-creation/equipment-and-starting-money/) Deine Charakter zusätzlich zur üblichen Menge erhält. Credits sind die am weitesten verbreitete Währung im Sonnensystem. Mit ihnen kannst Du während der Charaktererstellung und danach beispielsweise Ausrüstung kaufen. Die übliche Menge der zur Verfügung stehenden Credits wird durch den Sozialstatus Deines Charakters sowie durch bestimmte Merkmale beeinflusst. Aus diesem Grund gewährt die **"Standard"**-Voreinstellung hier keinen Bonus.
 
 - **Start-Efahrung** gibt an, mit wie vielen Erfahrungspunkten Dein Charakter in das Spiel startet. Erfahrungspunkte sind die einzige Währung, die Du während des Spielverlaufs zum Steigern von Werten benötigen wirst. Während der Charaktererstellung erfüllen sie keinen Zweck. Aus diesem Grund gewährt die **"Standard"**-Voreinstellung hier keinen Bonus.
 
