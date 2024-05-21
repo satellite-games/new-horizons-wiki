@@ -1,4 +1,4 @@
-# character.origin.earth-urban
+# Erde — Großstädte und Raumstationen
 
 <img src="Ssellarpedia/images/basic-rules/supplement-origins/origin_earth-urban" alt="Berlin, Deutschland, 2280">
 

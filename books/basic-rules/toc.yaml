@@ -29,3 +29,34 @@ chapters:
       - id: origin
         title:
           de: Die Wahl der Herkunft
+  - id: supplement-origins
+    title:
+      de: "Anhang: Herkünfte"
+    articles:
+      - id: earth-urban
+        title:
+          de: Erde — Großstädte und Raumstationen
+      - id: earth-rural
+        title:
+          de: Erde — Abseits der Städte
+      - id: mars
+        title:
+          de: Mars
+      - id: venus
+        title:
+          de: Venus
+      - id: ceres
+        title:
+          de: Ceres und der Asteroidengürtel
+      - id: europa
+        title:
+          de: Europa
+      - id: ganymede
+        title:
+          de: Ganymed
+      - id: titan
+        title:
+          de: Titan
+      - id: miranda
+        title:
+          de: Trümmerstadt Miranda
