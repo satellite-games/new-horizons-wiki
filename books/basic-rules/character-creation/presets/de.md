@@ -22,6 +22,6 @@ Die Voreinstellungen umfassen folgende Parameter:
 
 - **Bonus-Credits** geben an, wie viele [Credits](/books/basic-rules/character-creation/equipment-and-starting-money/) Deine Charakter zusätzlich zur üblichen Menge erhält. Credits sind die am weitesten verbreitete Währung im Sonnensystem. Mit ihnen kannst Du während der Charaktererstellung und danach beispielsweise Ausrüstung kaufen. Die übliche Menge der zur Verfügung stehenden Credits wird durch den Sozialstatus Deines Charakters sowie durch bestimmte Merkmale beeinflusst. Aus diesem Grund gewährt die **"Standard"**-Voreinstellung hier keinen Bonus.
 
-- **Start-Efahrung** gibt an, mit wie vielen Erfahrungspunkten Dein Charakter in das Spiel startet. Erfahrungspunkte sind die einzige Währung, die Du während des Spielverlaufs zum Steigern von Werten benötigen wirst. Während der Charaktererstellung erfüllen sie keinen Zweck. Aus diesem Grund gewährt die **"Standard"**-Voreinstellung hier keinen Bonus.
+- **Start-Erfahrung** gibt an, mit wie vielen Erfahrungspunkten Dein Charakter in das Spiel startet. Erfahrungspunkte sind die einzige Währung, die Du während des Spielverlaufs zum Steigern von Werten benötigen wirst. Während der Charaktererstellung erfüllen sie keinen Zweck. Aus diesem Grund gewährt die **"Standard"**-Voreinstellung hier keinen Bonus.
 
 - **Start-Schicksalspunkte** geben an, mit wie vielen Schicksalspunkten Dein Charakter in das Spiel startet. Schicksalspunkte können verwendet werden, um gescheiterte Probenwürfe zu wiederholen.
