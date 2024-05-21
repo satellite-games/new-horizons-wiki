@@ -2,7 +2,7 @@
 
 Zu Beginn der Charaktererstellung in New Horizons kannst Du aus einer Reihe von **Voreinstellungen** wählen.
 
-> **Hinweis:** Standardmäßig ist die Voreinstellung **"Standard"** ausgewählt. **Wir empfehlen neuen Spieler:innen, diese Voreinstellungen unverändert zu übernehmen.**
+> TIP Standardmäßig ist die Voreinstellung **"Standard"** ausgewählt. **Wir empfehlen neuen Spieler:innen, diese Voreinstellungen unverändert zu übernehmen.**
 
 In **Absprache mit Deiner Spielleiter:in** kannst Du auch eine andere Voreinstellung wählen oder alle Parameter für die charaktererstellung auch selbst anpassen. Bitte beachte, dass die Voreinstellungen erheblichen Einfluss darauf haben werden, wie stark oder schwach Dein Charakter zu Beginn sein wird. Du solltest die Parameter nur dann selbst anpassen, wenn Du weißt, was Du tust.
 
