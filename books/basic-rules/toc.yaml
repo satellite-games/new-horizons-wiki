@@ -26,3 +26,6 @@ chapters:
       - id: presets
         title:
           de: Voreinstellungen
+      - id: origin
+        title:
+          de: Die Wahl der Herkunft
