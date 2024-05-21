@@ -23,3 +23,6 @@ chapters:
       - id: essentials
         title:
           de: Grundlagen
+      - id: presets
+        title:
+          de: Voreinstellungen
