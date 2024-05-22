@@ -1,6 +1,6 @@
 # Silbernes Reich — Triton
 
-<img src="/books/basic-rules/appendix-character-origin/codex-triton/codex-triton.png" alt="Triton, 2271">
+<figure><img src="/books/basic-rules/appendix-character-origin/codex-triton/codex-triton.png" alt="Triton, 2271"><figcaption></figcaption></figure>
 
 Mit der Besiedelung im Jahr 2151 kamen vor allem Menschen mit niedrigem sozialem Stand in die Neptunregion, darunter meist Arbeiter oder gar Menschen mit kriminellem Hintergrund. Geprägt von sozialer Ausgrenzung oder Unterdrückung und der Suche nach existenziellen Perspektiven gründeten sie auf dem Mond Triton die Neptunkolonie, die bis heute die äußerste bekannte Siedlung im Sonnensystem darstellt. Die große Entfernung zum inneren Sonnensystem bescherte den Neptunsiedlern zwar die gewünschte Ferne zur Erde, brachte aber auch eine schwierige Versorgungssituation mit sich. Große soziale Verwerfungen folgten bald und waren Nährboden für rechtskonservatives und nationalistisches Gedankengut. Jahrzehnte lang war die Region geprägt von häufigen Regierungswechseln, hoher Kriminalität, Terrorgefahr und Extremismus. Die meist von der Erde eingesetzten Kolonialregierungen entstammten ohnehin einer Elite, mit der sich die Menschen der Region nicht identifizieren konnten.
 

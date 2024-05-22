@@ -1,6 +1,6 @@
 # Titan
 
-<img src="/books/basic-rules/appendix-character-origin/titan/titan.png" alt="Ghetto am Rande eines Methansees, Titan, 2265">
+<figure><img src="/books/basic-rules/appendix-character-origin/titan/titan.png" alt="Ghetto am Rande eines Methansees, Titan, 2265"><figcaption></figcaption></figure>
 
 Neben den Jupitermonden Galileo und Europa galt Titan schon früh als einer der meistversprechenden Himmelskörper für die Kolonisierung. Neben seinem Rohstoffreichtum ist der Saturnmond aber auch in seiner Beschaffenheit einzigartig. Auf seiner silikatreichen Oberfläche finden sich riesige Ozeane aus flüssigem Methan, das für die Treibstoffgewinnung im heutigen Sonnensystem unerlässlich ist. Seine dichte Atmosphäre erlaubt darüber hinaus sogar den Einsatz von Flugzeugen oder Hubschraubern, was intraplanetare Reisen und Transporte wesentlich erleichtert.
 
