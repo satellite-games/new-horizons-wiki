@@ -1,4 +1,8 @@
-# Erde — Großstädte und Raumstationen
+---
+game-object: character-origin
+---
+
+## Erde — Großstädte und Raumstationen
 
 <figure><img src="/books/basic-rules/appendix-character-origin/earth-urban/earth-urban.png" alt="TODO"><figcaption>Berlin, Deutschland, 2280</figcaption></figure>
 
