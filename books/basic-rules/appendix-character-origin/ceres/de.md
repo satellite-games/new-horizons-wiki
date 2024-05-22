@@ -1,6 +1,6 @@
 # Ceres und der Asteroidengürtel
 
-<img src="/books/basic-rules/appendix-character-origin/ceres/ceres.png" alt="Kronos, Hauptstadt der Kolonie Ceres, 2257">
+<figure><img src="/books/basic-rules/appendix-character-origin/ceres/ceres.png" alt="Kronos, Hauptstadt der Kolonie Ceres, 2257"><figcaption>Kronos, Hauptstadt der Kolonie Ceres, 2257</figcaption></figure>
 
 Der Zwergplanet Ceres ist das größte Objekt im Asteroidengürtel und auch das Zentrum der dort befindlichen Kolonien. Weil der vergleichsweise rohstoffarme Mond aber gar nicht von allzu großer wirtschaftlicher Bedeutung ist, leben die meisten Menschen zum größten Teil in Raumstationen oder auf Asteroiden verteilt über den Gürtel. Die meisten „Gürtler“, wie sie andernorts im Sonnensystem genannt werden, bewohnen die Weltraumstadt Kronos im Orbit von Ceres.
 
