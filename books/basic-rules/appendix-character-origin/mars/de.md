@@ -1,4 +1,4 @@
-# character.origin.mars
+# Mars
 
 <img src="Ssellarpedia/images/basic-rules/appendix-origins/origin_mars" alt="Liberty City, Hauptstadt des Mars, 2284">
 
