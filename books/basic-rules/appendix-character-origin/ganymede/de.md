@@ -1,6 +1,6 @@
 # Ganymed
 
-<figure><img src="/books/basic-rules/appendix-character-origin/ganymede/ganymede.png" alt="Eingeschneites Frachtschiff auf Ganymed, 2277"><figcaption></figcaption></figure>
+<figure><img src="/books/basic-rules/appendix-character-origin/ganymede/ganymede.png" alt="TODO"><figcaption>Eingeschneites Frachtschiff auf Ganymed, 2277</figcaption></figure>
 
 Als größter, sauerstoff- sowie wasserhaltiger Mond des Sonnensystems galt Ganymed als hervorragender Kandidat für frühe Terraformingversuche. Auch sein ausgeprägter Magnetismus versprach, Bewohner zuverlässig vor der gefährlichen Jupiterstrahlung und Sonnenwinden zu schützen. Seine Kolonisierung erfolgte bereits 2123, 15 Jahre vor der Besiedelung seines Nachbartrabanten Europa.
 

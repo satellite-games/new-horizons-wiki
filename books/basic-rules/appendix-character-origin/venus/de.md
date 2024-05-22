@@ -1,6 +1,6 @@
 # Venus
 
-<figure><img src="/books/basic-rules/appendix-character-origin/venus/venus.png" alt="Renascence, Hauptstadt der Venus, 2279"><figcaption></figcaption></figure>
+<figure><img src="/books/basic-rules/appendix-character-origin/venus/venus.png" alt="TODO"><figcaption></figcaption></figure>
 
 Die Kolonisierung der Venus im Jahr 2108 stellte die Menschen vor große technische Herausforderungen. Ein viel zu hoher atmosphärischer Druck und Temperaturen von über 400 °C am Boden machten eine Besiedelung der Planetenoberfläche unmöglich. Aus diesem Grund wurden riesige, freischwebende Plattformen in die Venusatmosphäre gebracht, um die auf der Venus befindlichen Edelgasvorkommen auffangen zu können. Diese Stationen schweben in 40-50 Kilometern Höhe, wo konstant Temperaturen von 0 bis 25 °C und ein Druck von etwa ein bis zwei bar herrschen. Da die Venusatmosphäre auf dieser Höhe jedoch zu bis zu drei Vierteln aus Schwefelsäure besteht, die sich in Wolken in den oberen Atmosphäreschichten anlagert, kommt es häufig zu gefährlichen Schwefelsäureregenfällen, die bei Hautkontakt tödliche Verletzungen hervorrufen können.
 
