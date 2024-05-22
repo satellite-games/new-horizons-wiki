@@ -1,4 +1,8 @@
-# Ganymed
+---
+parser: character-origin
+---
+
+## Ganymed
 
 <figure><img src="/books/basic-rules/appendix-character-origin/ganymede/ganymede.png" alt="TODO"><figcaption>Eingeschneites Frachtschiff auf Ganymed, 2277</figcaption></figure>
 

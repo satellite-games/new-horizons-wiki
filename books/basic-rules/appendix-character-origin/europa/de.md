@@ -1,4 +1,8 @@
-# Europa
+---
+parser: character-origin
+---
+
+## Europa
 
 <figure><img src="/books/basic-rules/appendix-character-origin/europa/europa.png" alt="TODO"><figcaption>Gallilei, Hauptstadt von Europa, 2281</figcaption></figure>
 

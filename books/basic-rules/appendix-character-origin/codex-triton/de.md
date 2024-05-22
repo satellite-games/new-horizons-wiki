@@ -1,4 +1,8 @@
-# Silbernes Reich — Triton
+---
+parser: character-origin
+---
+
+## Silbernes Reich — Triton
 
 <figure><img src="/books/basic-rules/appendix-character-origin/codex-triton/codex-triton.png" alt="TODO"><figcaption>Triton, 2271</figcaption></figure>
 

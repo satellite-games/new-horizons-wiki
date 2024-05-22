@@ -1,4 +1,8 @@
-# Mars
+---
+parser: character-origin
+---
+
+## Mars
 
 <figure><img src="/books/basic-rules/appendix-character-origin/mars/mars.png" alt="TODO"><figcaption>Liberty City, Hauptstadt des Mars, 2284</figcaption></figure>
 

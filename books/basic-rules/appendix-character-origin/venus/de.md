@@ -1,4 +1,8 @@
-# Venus
+---
+parser: character-origin
+---
+
+## Venus
 
 <figure><img src="/books/basic-rules/appendix-character-origin/venus/venus.png" alt="TODO"><figcaption></figcaption></figure>
 

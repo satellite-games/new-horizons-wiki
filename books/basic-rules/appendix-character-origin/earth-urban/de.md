@@ -1,5 +1,5 @@
 ---
-game-object: character-origin
+parser: character-origin
 ---
 
 ## Erde — Großstädte und Raumstationen

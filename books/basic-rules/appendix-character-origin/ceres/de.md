@@ -1,4 +1,8 @@
-# Ceres und der Asteroidengürtel
+---
+parser: character-origin
+---
+
+## Ceres und der Asteroidengürtel
 
 <figure><img src="/books/basic-rules/appendix-character-origin/ceres/ceres.png" alt="TODO"><figcaption>Kronos, Hauptstadt der Kolonie Ceres, 2257</figcaption></figure>
 

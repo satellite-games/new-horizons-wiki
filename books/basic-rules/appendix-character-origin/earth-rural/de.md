@@ -1,4 +1,8 @@
-# Erde — Abseits der Städte
+---
+parser: character-origin
+---
+
+## Erde — Abseits der Städte
 
 <figure><img src="/books/basic-rules/appendix-character-origin/earth-rural/earth-rural.png" alt="TODO"><figcaption>Küste von Costa Rica, 2269</figcaption></figure>
 

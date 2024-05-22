@@ -1,4 +1,8 @@
-# Silbernes Reich — Minenkolonien
+---
+parser: character-origin
+---
+
+## Silbernes Reich — Minenkolonien
 
 <figure><img src="/books/basic-rules/appendix-character-origin/codex-moons/codex-moons.png" alt="TODO"><figcaption>Minenkolonie auf dem Neptunmond Proteus</figcaption></figure>
 

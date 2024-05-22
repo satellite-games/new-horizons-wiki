@@ -1,4 +1,8 @@
-# Titan
+---
+parser: character-origin
+---
+
+## Titan
 
 <figure><img src="/books/basic-rules/appendix-character-origin/titan/titan.png" alt="TODO"><figcaption></figcaption></figure>
 
