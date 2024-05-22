@@ -15,6 +15,9 @@ importers:
       '@modyfi/vite-plugin-yaml':
         specifier: ^1.1.0
         version: 1.1.0(rollup@4.18.0)(vite@5.2.11(@types/node@20.12.12))
+      '@spuxx/browser-utils':
+        specifier: ^0.2.0
+        version: 0.2.0(@modyfi/vite-plugin-yaml@1.1.0(rollup@4.18.0)(vite@5.2.11(@types/node@20.12.12)))
       '@types/node':
         specifier: ^20.12.10
         version: 20.12.12
@@ -421,6 +424,14 @@ packages:
 
   '@sinclair/typebox@0.27.8':
     resolution: {integrity: sha512-+Fj43pSMwJs4KRrH/938Uf+uAELIgVBmQzg/q1YG10djyfA3TnrU8N8XzqCh/okZdszqBQTZf96idMfE5lnwTA==}
+
+  '@spuxx/browser-utils@0.2.0':
+    resolution: {integrity: sha512-kiHYP0VR6/HwRLX834BQyZHpo+lQ+Z313z9k91ju+zF4h4BHEn8hqiRVitry0mgLXS7VP3SyDldLR67qyJusKQ==}
+    peerDependencies:
+      '@modyfi/vite-plugin-yaml': ^1.0.4
+    peerDependenciesMeta:
+      '@modyfi/vite-plugin-yaml':
+        optional: true
 
   '@types/argparse@1.0.38':
     resolution: {integrity: sha512-ebDJ9b0e702Yr7pWgB0jzm+CX4Srzz8RcXtLJDJB+BSccqMa36uyH/zUsSYao5+BD1ytv3k3rPYCq4mAE1hsXA==}
@@ -1740,6 +1751,10 @@ snapshots:
       - '@types/node'
 
   '@sinclair/typebox@0.27.8': {}
+
+  '@spuxx/browser-utils@0.2.0(@modyfi/vite-plugin-yaml@1.1.0(rollup@4.18.0)(vite@5.2.11(@types/node@20.12.12)))':
+    optionalDependencies:
+      '@modyfi/vite-plugin-yaml': 1.1.0(rollup@4.18.0)(vite@5.2.11(@types/node@20.12.12))
 
   '@types/argparse@1.0.38': {}
 
