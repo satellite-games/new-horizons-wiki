@@ -7,4 +7,4 @@ Mittels der Applikation IFFOverride ist es möglich, die Freund-Feind-Erkennung 
 `SP_TODO: [txt(col=#9F9F9F)]Ausdauerkosten: SL AP`
 `SP_TODO: [txt(col=#9F9F9F)]Aktivierungsdauer: SL Akt.`
 `SP_TODO: [txt(col=#9F9F9F)]Zielobjekt: Einzelnes System bzw. Komponente`
-`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Requirements</lc>: <link="BasicRules;SupplementAbilities;ability/general/mid-hacking"><lc>ability/general/mid-hacking</lc></link>, <link="BasicRules;SupplementSkills;skill/knowledge/informatics"><lc>skill/knowledge/informatics</lc></link>`
+`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Requirements</lc>: <link="BasicRules;SupplementAbilities;ability/general/mid-hacking"><lc>ability/general/mid-hacking</lc></link>, <link="BasicRules;SupplementSkills;skill/knowledge/information-technology"><lc>skill/knowledge/information-technology</lc></link>`

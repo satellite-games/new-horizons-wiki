@@ -7,4 +7,4 @@ Der Hacker verringert die GS des Ziels um ApP Punkte für ebenso viele Kampfrund
 `SP_TODO: [txt(col=#9F9F9F)]Ausdauerkosten: 3 AP`
 `SP_TODO: [txt(col=#9F9F9F)]Aktivierungsdauer: 1 Akt.`
 `SP_TODO: [txt(col=#9F9F9F)]Zielobjekt: Einzelnes System, keine Fahrzeuge`
-`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Requirements</lc>: <link="BasicRules;SupplementAbilities;ability/general/mid-hacking"><lc>ability/general/mid-hacking</lc></link>, <link="BasicRules;SupplementSkills;skill/knowledge/informatics"><lc>skill/knowledge/informatics</lc></link>`
+`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Requirements</lc>: <link="BasicRules;SupplementAbilities;ability/general/mid-hacking"><lc>ability/general/mid-hacking</lc></link>, <link="BasicRules;SupplementSkills;skill/knowledge/information-technology"><lc>skill/knowledge/information-technology</lc></link>`

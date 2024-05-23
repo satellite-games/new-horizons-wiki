@@ -7,4 +7,4 @@ Fuck you, Sesame! ist eine Applikation zum vollständigen Entfernen (oder Erstel
 `SP_TODO: [txt(col=#9F9F9F)]Ausdauerkosten: 1 AP`
 `SP_TODO: [txt(col=#9F9F9F)]Aktivierungsdauer: 1 Akt.`
 `SP_TODO: [txt(col=#9F9F9F)]Zielobjekt: Einzelnes System bzw. Komponente`
-`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Requirements</lc>: <link="BasicRules;SupplementAbilities;ability/general/mid-hacking"><lc>ability/general/mid-hacking</lc></link>, <link="BasicRules;SupplementSkills;skill/knowledge/informatics"><lc>skill/knowledge/informatics</lc></link>`
+`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Requirements</lc>: <link="BasicRules;SupplementAbilities;ability/general/mid-hacking"><lc>ability/general/mid-hacking</lc></link>, <link="BasicRules;SupplementSkills;skill/knowledge/information-technology"><lc>skill/knowledge/information-technology</lc></link>`
