@@ -1,5 +1,5 @@
 ---
-extension: character-origin
+extensions: character-origin
 ---
 
 ## Silbernes Reich — Triton
