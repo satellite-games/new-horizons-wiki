@@ -1,7 +1,3 @@
 # trait/sleepwalker
 
 Der Charakter neigt dazu, im Schlaf aufzustehen, herumzuwandern und sogar alltägliche Tätigkeiten zu verrichten, ohne sich dessen bewusst zu sein oder anschließend daran erinnern zu können. Das kann zu gefährlichen oder schlicht amüsanten Situationen führen. Wird der Charakter dabei geweckt, ist er zunächst desorientiert (KL -3, IN -3) oder manchmal sogar aggressiv. Längeres Schlafwandeln strengt den Charakter an und kann seine Regeneration verhindern. Um einen Charakter am Schlafwandeln zu hindern, kann dieser festgebunden werden. Dieses Merkmal tritt etwa bei jeder vierten Schlafphase ein (1-5 auf W20).
-
-`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Bonus</lc>: **3 GP**`
-`SP_TODO: [mis]`
-`SP_TODO: [mis]`

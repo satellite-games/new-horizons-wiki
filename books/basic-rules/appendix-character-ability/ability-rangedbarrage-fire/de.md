@@ -1,9 +1,3 @@
 # ability/ranged/barrage-fire
 
 Der Charakter belegt seine Angriffsaktion mit einer beliebigen Ansage. Der Munitionsverbrauch des Charakters wird durch diese Aktion mit seiner Ansage multipliziert. Das Ziel, das er unter Sperrfeuer stellt, erhält eine Erschwerung in Höhe der Ansage auf alle Aktionen, für die es seine Deckung verlassen muss. Benötigt eine Zielen-Aktion. Die Sonderfertigkeit ist für eine ganze Kampfrunde aktiv (auch die darauffolgende, bis der Charakter wieder an der Reihe ist), solange der Schütze nicht getroffen wird. Ist die Probe eines Gegners für eine Handlung, die mit dem Verlassen seiner Deckung zusammenhängt, nicht erfolgreich, so erhält er den vollen Waffenschaden des Schützen. Nur möglich mit Schnellfeuerwaffen (vollautomatische Karabiner oderentsprechende schwere Waffen). Alternativ ist es dem Schützen auch möglich, nicht nur einzelne Ziele, sondern eine ganze Fläche in Sperrfeuer zu nehmen. Er kann dann einen Teil seiner Ansage benutzen, um die Fläche zu vergrößern (1 m² je Punkt), allerdings auf Kosten der Erschwerung, die seine Ziele erhalten.
-
-`SP_TODO: [txt(col=#9F9F9F)]<lc>Ability_Ranged</lc>`
-`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_CastTime</lc>: 2 <lc>Misc_Actions</lc>`
-`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_CastCosts</lc>: **4 <lc>Misc_SP</lc>**`
-`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Costs</lc>: **200 <lc>Misc_EP</lc> (2 <lc>Misc_GP</lc>)**`
-`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Requirements</lc>: <link="BasicRules;SupplementPrimaryAttributes;pri-a/cn"><lc>pri-a/cn</lc></link> (12), <link="BasicRules;SupplementPrimaryAttributes;pri-a/st"><lc>pri-a/st</lc></link> (12), <link="BasicRules;SupplementAbilities;ability/ranged/precision-shot-1"><lc>ability/ranged/precision-shot-1</lc></link>`
