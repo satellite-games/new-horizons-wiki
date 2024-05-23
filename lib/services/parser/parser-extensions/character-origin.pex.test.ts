@@ -1,7 +1,7 @@
+import type { CharacterOriginName } from '@newhorizons/core';
 import { characterOriginMocks } from '@newhorizons/core/mocks';
 import { beforeEach, expect, it, vi } from 'vitest';
-import { characterOriginParser } from './character-origin.parser';
-import type { CharacterOriginName } from '@newhorizons/core';
+import { characterOriginParser } from './character-origin.pex';
 
 beforeEach(() => {
   vi.mock('@/main', () => {

@@ -8,7 +8,7 @@ An article's front matter may include the `parser` attribute. If that is the cas
 
 ```yaml
 ---
-parser: character-origin
+extension: character-origin
 ---
 # ...
 ```
