@@ -6,4 +6,4 @@ Raumschiffe mit bemannten Geschütztürmen stellen im Kampf häufig besondere An
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_CastTime</lc>:  <lc>Misc_None</lc>`
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_CastCosts</lc>: **1 <lc>Misc_PP</lc>**`
 `SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Costs</lc>: **200 <lc>Misc_EP</lc> (2 <lc>Misc_GP</lc>)**`
-`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Requirements</lc>: <link="BasicRules;SupplementPrimaryAttributes;pri-a/in"><lc>pri-a/in</lc></link> (12), <link="BasicRules;SupplementSkills;skill/vehicles/extraplanetary-flying"><lc>skill/vehicles/extraplanetary-flying</lc></link> (5), <link="BasicRules;SupplementSkills;skill/vehicles/intraplanetary-flying"><lc>skill/vehicles/intraplanetary-flying</lc></link> (3)`
+`SP_TODO: [txt(col=#9F9F9F)]<lc>Misc_Requirements</lc>: <link="BasicRules;SupplementPrimaryAttributes;pri-a/in"><lc>pri-a/in</lc></link> (12), <link="BasicRules;SupplementSkills;skill/vehicles/spaceships"><lc>skill/vehicles/spaceships</lc></link> (5), <link="BasicRules;SupplementSkills;skill/vehicles/airplanes"><lc>skill/vehicles/airplanes</lc></link> (3)`
