@@ -1,3 +1,6 @@
-character:
-  origin:
-    bonus-attribute: Bonusattribut
+wiki:
+  and: und
+  or: oder
+  character:
+    origin:
+      bonus-attribute: Bonusattribut
