@@ -88,7 +88,7 @@ export class WikiParser extends ServiceMixin<WikiParser>() {
     for (const match of blueprintMatches) {
       let path = '';
       const { LOCALE } = Wiki.config;
-      if (match[0].includes('character')) {
+      if (match[1] === 'character') {
         path = `basic-rules/${match[1]}-${match[2]}/${match[3]}/${LOCALE}.md`;
       }
       if (path) article = article.replace(match[0], `<a href="/books/${path}">${match[0]}</a>`);
