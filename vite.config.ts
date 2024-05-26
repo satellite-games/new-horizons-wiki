@@ -23,5 +23,8 @@ export default defineConfig({
       name: '@newhorizons/core',
       formats: ['es'],
     },
+    rollupOptions: {
+      external: ['@spuxx/browser-utils', '@newhorizons/core'],
+    },
   },
 });

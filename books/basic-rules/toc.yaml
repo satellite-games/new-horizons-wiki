@@ -29,9 +29,9 @@ chapters:
       - id: origin
         title:
           de: Die Wahl der Herkunft
-  - id: appendix-character-origin
+  - id: character-origin
     title:
-      de: "Anhang: Herkünfte"
+      de: 'Anhang: Herkünfte'
     articles:
       - id: earth-urban
         title:
@@ -60,3 +60,9 @@ chapters:
       - id: miranda
         title:
           de: Trümmerstadt Miranda
+      - id: codex-moons
+        title:
+          de: Silbernes Reich — Minenkolonien
+      - id: codex-triton
+        title:
+          de: Silbernes Reich — Triton

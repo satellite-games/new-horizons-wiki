@@ -1,5 +1,5 @@
 import { wikiConfig, type WikiConfig } from '@/config';
-import { ServiceMixin } from '@spuxx/browser-utils';
+import { Logger, ServiceMixin } from '@spuxx/browser-utils';
 import yaml from 'js-yaml';
 import { WikiParser } from '../parser';
 import type { WikiBookHeader, WikiBookToc } from './types';
@@ -7,7 +7,7 @@ import type { WikiBookHeader, WikiBookToc } from './types';
 /**
  * Provides functionalities to interact with the wiki.
  */
-export class WikiService extends ServiceMixin<WikiService>() {
+export class Wiki extends ServiceMixin<Wiki>() {
   private _config: WikiConfig = wikiConfig;
 
   static get config() {
@@ -35,10 +35,11 @@ export class WikiService extends ServiceMixin<WikiService>() {
     try {
       const response = await fetch(url, { headers: this.config.HTTP_HEADERS });
       const text = await response.text();
-      const html = await WikiParser.parse(text);
+      const html = await WikiParser.parse(text, { book, chapter, article });
       return html;
     } catch (error) {
-      throw new Error(`Unable to retrieve article from '${url}'.`);
+      Logger.error(`Unable to retrieve article from '${url}'.`);
+      throw error;
     }
   }
 

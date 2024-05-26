@@ -1,6 +1,10 @@
+---
 wiki:
   and: und
   or: oder
   character:
     origin:
-      bonus-attribute: Bonusattribut
+      bonus-attribute: Attributbonus
+      suitable-traits: Passende Merkmale
+      fixed-skill-bonuses: Fähigkeitsboni (fix)
+      selectable-skill-bonuses: Fähigkeitsboni (wählbar)

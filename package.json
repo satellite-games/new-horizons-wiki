@@ -50,7 +50,7 @@
   },
   "peerDependencies": {
     "@newhorizons/core": "link:../newhorizons-core",
-    "@spuxx/browser-utils": "^0.2.0"
+    "@spuxx/browser-utils": "^0.3.0"
   },
   "dependencies": {
     "isomorphic-dompurify": "^2.11.0",
