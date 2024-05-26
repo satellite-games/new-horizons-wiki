@@ -64,7 +64,13 @@ export class WikiParser extends ServiceMixin<WikiParser>() {
     // Fulfill embedding requirements
     if (Wiki.config.EMBED) {
       // Replace remaining relative urls with the base path used for embedding
-      if (Wiki.config.EMBED.BASE_PATH) article = article.replace('/books', Wiki.config.EMBED.BASE_PATH);
+      if (Wiki.config.EMBED.BASE_PATH) {
+        const linkUrlPattern = /(href="\/books)/gi;
+        const linkUrlMatches = article.matchAll(linkUrlPattern);
+        for (const match of linkUrlMatches) {
+          article = article.replace(match[1], `href="${Wiki.config.EMBED.BASE_PATH}`);
+        }
+      }
       // Remove filenames from wiki links
       if (Wiki.config.EMBED.REMOVE_FILENAMES) article = article.replace(/\w+\.md/gi, '');
     }
@@ -83,7 +89,7 @@ export class WikiParser extends ServiceMixin<WikiParser>() {
       let path = '';
       const { LOCALE } = Wiki.config;
       if (match[0].includes('character')) {
-        path = `basic-rules/${match[1]}-${match[2]}/-${match[3]}/${LOCALE}.md`;
+        path = `basic-rules/${match[1]}-${match[2]}/${match[3]}/${LOCALE}.md`;
       }
       if (path) article = article.replace(match[0], `<a href="/books/${path}">${match[0]}</a>`);
     }
