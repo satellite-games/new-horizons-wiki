@@ -4,7 +4,7 @@ extensions: character-origin
 
 ## Europa
 
-<figure><img src="/books/basic-rules/appendix-character-origin/europa/europa.png" alt="TODO"><figcaption>Gallilei, Hauptstadt von Europa, 2281</figcaption></figure>
+<figure><img src="/books/basic-rules/character-origin/europa/europa.png" alt="TODO"><figcaption>Gallilei, Hauptstadt von Europa, 2281</figcaption></figure>
 
 Der Jupitermond Europa war nach Ganymed der zweite Himmelskörper im äußeren Sonnensystem, der von Menschen besiedelt wurde. Im Jahr 2138 landeten auf der Südhalbkugel des Eismondes hochspezialisierte Raumschiffe und bohrten sich durch die bis zu 15 Kilometer mächtige Eisdecke. Dort, in der Mitte des Einschlagkraters Pwyll, liegt noch heute der Zugang zum Inneren Europas. Der bis zu 100 Kilometer tiefe Ozean unter der Eisdecke Europas bot den Siedlern nicht nur ideale Temperaturen und Lebensbedingungen. Dort wurden auch die bislang einzigen außerirdischen Lebensformen entdeckt, von mikrobiellem Leben einmal abgesehen. Der riesige Ozean wird von den verschiedensten Lebewesen bevölkert, von Algen und Bakterien bis hin zu riesigen, wirbeltierartigen Meeresbewohnern.
 

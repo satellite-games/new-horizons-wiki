@@ -1,6 +1,6 @@
 # Trümmerstadt Miranda
 
-<figure><img src="/books/basic-rules/appendix-character-origin/miranda/miranda.png" alt="TODO"><figcaption></figcaption></figure>
+<figure><img src="/books/basic-rules/character-origin/miranda/miranda.png" alt="TODO"><figcaption></figcaption></figure>
 
 Die Trümmerstadt Miranda ist zwar vergleichsweise klein, aber im ganzen Sonnensystem bekannt. Sie gilt als Symbol des Konflikts zwischen den Vereinten Nationen der Erde und dem Silbernen Reich und liegt im Orbit des Uranusmondes Miranda. Die Stadt wurde auf Wrack- und Schiffsteilen errichtet, die als Überbleibsel der grausamen Schlacht von Miranda seit dem Jahr 2258 den Mond umkreisen. Seit ihrer Gründung leben dort rund 300 000 Menschen in recht geordneten und friedlichen Verhältnissen. Unter den Bewohnern finden sich neben vielen Aussiedlern unterschiedlichster Kulturen auch zahlreiche Deserteure und Überlebende des Krieges. So kann man es durchaus beeindruckend finden, dass in der Trümmerstadt ehemalige Soldaten und Offiziere sowohl des ISC als auch der Codex Adamanteum miteinander leben, handeln und auf demokratischer Basis regieren. Hier gilt scheinbar noch der Wettstreit der Ideen, nicht kulturelle Zugehörigkeit.
 

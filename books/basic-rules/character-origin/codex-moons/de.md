@@ -4,7 +4,7 @@ extensions: character-origin
 
 ## Silbernes Reich — Minenkolonien
 
-<figure><img src="/books/basic-rules/appendix-character-origin/codex-moons/codex-moons.png" alt="TODO"><figcaption>Minenkolonie auf dem Neptunmond Proteus</figcaption></figure>
+<figure><img src="/books/basic-rules/character-origin/codex-moons/codex-moons.png" alt="TODO"><figcaption>Minenkolonie auf dem Neptunmond Proteus</figcaption></figure>
 
 In den Monden von Neptun und Uranus wurden seit der Besiedelung des äußersten Sonnensystems zahlreiche Kolonien gegründet, um die dortigen Bodenschätze zu fördern. Mit der Gründung des Silbernen Reiches 2251 erhob der Codex Adamanteum den Machtanspruch über diese Kolonien. Nach dem vorläufigen Kriegsende 2258 erlangten zwar zumindest die Monde des Uranus ein größeres Maß an Unabhängigkeit, doch zuletzt nimmt auch hier der Einfluss des Silbernen Reiches wieder zu.
 
