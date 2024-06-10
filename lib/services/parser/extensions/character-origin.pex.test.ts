@@ -5,7 +5,7 @@ import { characterOriginParser } from './character-origin.pex';
 beforeEach(() => {
   vi.mock('@newhorizons/core', () => {
     return {
-      characterOrigins: characterOriginMocks,
+      characterOrigins: Object.values(characterOriginMocks),
     };
   });
 });
